@@ -78,3 +78,46 @@
 |   8 | Probiotics                | Promotes gut health, digestion, and immune system function.                               | Contains beneficial bacteria for the gut. |
 |   9 | Rhodiola Rosea           | Enhances energy, mental performance, and stress adaptation.                               | Adaptogenic herb with stimulating effects. |
 |  10 | L-Theanine                | Promotes relaxation, reduces stress and anxiety, and supports focus.                       | Found in tea leaves, particularly green tea. |
+
+
+## Quotes
+
+| Quote | Author |
+|-------|--------|
+| "There are two types of people: 1. People who do backup 2. People who will start doing backup" | Unknown |
+| "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e., it always increases." | Norman Augustine |
+| "To err is human, but to really foul things up you need a computer." | Paul R. Ehrlich |
+| "The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do." | Ted Nelson |
+| "It's not a bug, it's a feature." | Anonymous |
+| "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." | Bill Gates |
+| "The Internet is becoming the town square for the global village of tomorrow." | Bill Gates |
+| "Any sufficiently advanced technology is indistinguishable from magic." | Arthur C. Clarke |
+| "The only secure computer is one that's unplugged, locked in a safe, and buried 20 feet under the ground in a secret location... and I'm not even too sure about that one." | Dennis Huges |
+| "The real danger is not that computers will begin to think like men, but that men will begin to think like computers." | Sydney J. Harris |
+| "It's hardware that makes a machine fast. It's software that makes a fast machine slow." | Craig Bruce |
+| "If debugging is the process of removing software bugs, then programming must be the process of putting them in." | Edsger Dijkstra |
+| "The best thing about a boolean is even if you are wrong, you are only off by a bit." | Anonymous |
+| "Walking on water and developing software from a specification are easy if both are frozen." | Edward V. Berard |
+| "The Internet: where men are men, women are men, and children are FBI agents." | Anonymous |
+| "In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is." | Kent Beck |
+| "Perl – The only language that looks the same before and after RSA encryption." | Keith Bostic |
+| "The three most dangerous things in the world are a programmer with a soldering iron, a hardware type with a program patch, and a user with an idea." | The Wizardry Compiled by Rick Cook |
+| "If you think your users are idiots, only idiots will use it." | Linus Torvalds |
+| "Saying that Java is nice because it works on all OSs is like saying that anal sex is nice because it works on all genders." | Alanna |
+
+## Japan life
+
+| Term            | Meaning                                 | Influence on Daily Life                                                                                                 |
+|-----------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Kaizen          | Continuous Improvement                  | Encourages gradual progress and positive changes in various aspects of life.                                           |
+| Shinrin-Yoku    | Forest Bathing                          | Promotes relaxation, stress reduction, and improved well-being through immersion in nature.                           |
+| Ikigai          | A Reason for Being                      | Helps find purpose and balance by aligning passions, talents, values, and meaningful contributions.                   |
+| Wabi-Sabi       | Embracing Imperfection                  | Fosters mindfulness, contentment, and appreciation for the beauty of imperfection and impermanence.                  |
+| Mottainai       | Regret Over Waste                       | Encourages responsible consumption, sustainability, and a mindful approach to resource usage.                        |
+| Omoiyari        | Compassion and Empathy                  | Enhances relationships and interactions by showing understanding, kindness, and consideration for others.             |
+| Komorebi        | Sunlight Filtered Through Trees         | Promotes appreciation of nature's beauty and moments of tranquility in everyday life.                                |
+| Mono no Aware   | Transient Beauty and Bittersweetness    | Deepens appreciation for fleeting moments and impermanent experiences, leading to a richer emotional connection.     |
+| Gaman           | Enduring Challenges with Dignity        | Builds resilience and patience, enabling better coping with difficulties and adversity.                              |
+| Kintsugi        | Repairing with Gold Lacquer             | Symbolizes embracing flaws and scars, both in objects and life experiences, as part of a beautiful journey.          |
+| Yutori          | Sense of Balance and Moderation         | Avoids overcommitment, stress, and fosters a balanced, fulfilling lifestyle with space for self-care and growth.    |
+
