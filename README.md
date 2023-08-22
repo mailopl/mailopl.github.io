@@ -121,3 +121,9 @@
 | Kintsugi        | Repairing with Gold Lacquer             | Symbolizes embracing flaws and scars, both in objects and life experiences, as part of a beautiful journey.          |
 | Yutori          | Sense of Balance and Moderation         | Avoids overcommitment, stress, and fosters a balanced, fulfilling lifestyle with space for self-care and growth.    |
 
+## Tools
+* Syncthing
+* Raycast
+* Obsidian
+* PHPStorm
+* iTerm + ZSH + https://github.com/romkatv/powerlevel10k
